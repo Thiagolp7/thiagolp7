@@ -2,7 +2,7 @@
 
 - 🤓 Programando desde: 22/10/20;
 - 🚀 Estudandante da  <a href="https://github.com/rocketseat-education">Rocketseat</a>;
-- 👨‍💻 Buscando pela primeira oportunidade como desenvolvedor forntend. 
+- 👨‍💻 Buscando pela primeira oportunidade como desenvolvedor frontend. 
 
 
 ---

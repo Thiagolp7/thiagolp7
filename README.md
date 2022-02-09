@@ -12,5 +12,6 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://user-images.githubusercontent.com/92824127/153241844-bec45712-5b19-4db6-a570-582b69c84b67.svg" />
 </div>
+

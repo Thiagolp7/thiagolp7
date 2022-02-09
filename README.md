@@ -1,8 +1,9 @@
-### Fala, dev! Thiago aqui. :raising_hand_man:
+## Fala, dev! Thiago aqui. :raising_hand_man:
 
 - 🤓 Programando desde: 22/10/20;
 - 🚀 Estudandante da  <a href="https://github.com/rocketseat-education">Rocketseat</a>;
 - 👨‍💻 Buscando pela primeira vaga como desenvolvedor forntend. 
+
 
 ---
 <div align="center">
@@ -14,4 +15,19 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/92824127/153241844-bec45712-5b19-4db6-a570-582b69c84b67.svg" />
 </div>
+
+
+<br>
+<div align="center">
+
+Experiência 🤓 |  Estudando 📖  |  Interesse 🧐
+:-------------: | :---------: | :---------:
+<img align="center" alt="html" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/><img align="center" alt="css" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img align="center" alt="javascript" width="50" height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="center" alt="sass" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> | <img align="center" alt="react" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img align="center" alt="typescript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> | <img align="center" alt="nextjs" height="70" src="https://user-images.githubusercontent.com/92824127/153253239-3438fc21-f08c-4ae3-890d-5f64868a62a4.svg" /><img align="center" alt="nextjs" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+</div>
+
+
+
+
+
 

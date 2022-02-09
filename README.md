@@ -1,8 +1,8 @@
 ### Fala, dev! Thiago aqui. :raising_hand_man:
 
-<div align="left">
-  <a href="https://github.com/thiagolp7">
-</div>
+- 🤓 Programando desde: 22/10/20;
+- 🚀 Estudandante da  <a href="https://github.com/rocketseat-education">Rocketseat</a>;
+- 👨‍💻 Buscando pela primeira vaga como desenvolvedor forntend. 
 
 ---
 <div align="center">

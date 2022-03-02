@@ -1,9 +1,8 @@
 ## Fala, dev! Thiago aqui. :raising_hand_man:
 
-- 🤓 Programando desde: 22/10/20;
+- 🤓 Programando desde: 22/10/21;
 - 🚀 Estudandante da  <a href="https://github.com/rocketseat-education">Rocketseat</a>;
 - 👨‍💻 Buscando pela primeira oportunidade como desenvolvedor frontend. 
-
 
 ---
 <div align="center">
